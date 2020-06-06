@@ -10,6 +10,7 @@
         {"name": "dotnet4.6.2"},
         {"name": "dotnet4.7.2"},
         {"name": "microsoft-windows-terminal"},
+        {"name": "totalcommander"},
         {"name": "vcpython27"},
         {
             "name": "python2.x86.nopath.flare",
@@ -60,6 +61,8 @@
         {"name": "pebear"},
         {"name": "reshack"},
         {"name": "dbgview"},
-        {"name": "cmake"}
+        {"name": "cmake"},
+        {"name": "ida-free"},
+        {"name": "ghidra"}
     ]
 }
