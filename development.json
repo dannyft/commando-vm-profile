@@ -63,6 +63,9 @@
         {"name": "dbgview"},
         {"name": "cmake"},
         {"name": "ida-free"},
-        {"name": "ghidra"}
+        {"name": "ghidra"},
+        {"name": "pesieve"},
+        {"name": "windows-adk-all"},
+        {"name": "nirlauncher"}
     ]
 }
